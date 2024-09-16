@@ -6,4 +6,4 @@ print(arr1)
 # using once or zero array
 arr2=np.once((2,2))
 arr3=np.zero((2,3))
-
+arr4=np.arange(10)
