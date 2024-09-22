@@ -23,7 +23,7 @@ To get started with this repository:
 
 1. Clone the repo:
    ```
-   git clone https://github.com/yourusername/machine-learning-mastery.git
+   git clone https://github.com/deepansu414/ML.git
    ```
 2. Install dependencies:
    ```
