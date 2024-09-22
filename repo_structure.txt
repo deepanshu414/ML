@@ -1,1 +1,5 @@
-
+├── LICENSE
+├── README.md
+├── numpy.py
+├── numpy_array_1.ipynb
+└── repo_structure.txt

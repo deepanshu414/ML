@@ -59,7 +59,13 @@ Each algorithm is explained in detail in its respective notebook in the `algorit
 ## 📁 Project Structure
 
 <!-- START_STRUCTURE -->
-
+```
+├── LICENSE
+├── README.md
+├── numpy.py
+├── numpy_array_1.ipynb
+└── repo_structure.txt
+```
 <!-- END_STRUCTURE -->
 
 ## 🛠️ Usage
