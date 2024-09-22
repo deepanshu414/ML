@@ -58,17 +58,9 @@ Each algorithm is explained in detail in its respective notebook in the `algorit
 
 ## 📁 Project Structure
 
-```
-machine-learning-mastery/
-│
-├── data/                  # Dataset storage
-├── notebooks/             # Jupyter notebooks for tutorials and examples
-├── src/                   # Source code for ML models
-├── tests/                 # Unit tests
-├── docs/                  # Additional documentation
-├── requirements.txt       # Project dependencies
-└── README.md              # This file
-```
+<!-- START_STRUCTURE -->
+
+<!-- END_STRUCTURE -->
 
 ## 🛠️ Usage
 
