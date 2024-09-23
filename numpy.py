@@ -3,6 +3,7 @@ import numpy as np
 l1=[1,2,3,4,5,7]
 arr1=np.array(l1)
 print(arr1)
+print(arr1)
 # using once or zero array
 arr2=np.onces((2,2))
 arr3=np.zeros((2,3))
