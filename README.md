@@ -61,9 +61,10 @@ Each algorithm is explained in detail in its respective notebook in the `algorit
 <!-- START_STRUCTURE -->
 ```
 ├── LICENSE
+├── ML
+│   ├── numpy_array_1.ipynb
+│   └── numpy_array_2.ipynb
 ├── README.md
-├── numpy.py
-├── numpy_array_1.ipynb
 └── repo_structure.txt
 ```
 <!-- END_STRUCTURE -->
