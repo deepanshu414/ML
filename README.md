@@ -65,7 +65,8 @@ Each algorithm is explained in detail in its respective notebook in the `algorit
 │   ├── numpy_array_1.ipynb
 │   └── numpy_array_2.ipynb
 ├── README.md
-└── repo_structure.txt
+├── repo_structure.txt
+└── requirements.txt
 ```
 <!-- END_STRUCTURE -->
 
