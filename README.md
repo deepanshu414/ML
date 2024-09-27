@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Mastery
+# 🤖 Machine Learning
 
 Welcome to the Machine Learning Mastery repository! This comprehensive guide will take you on a journey through the fascinating world of machine learning, from basic concepts to advanced techniques. Whether you're a beginner or an experienced practitioner, this repository has something for everyone.
 
