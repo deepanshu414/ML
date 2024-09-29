@@ -68,7 +68,9 @@ Each algorithm is explained in detail in its respective notebook in the `algorit
 │   ├── numpy_array_2.ipynb
 │   ├── pandas_1.ipynb
 │   ├── pandas_2.ipynb
-│   └── pandas_3.ipynb
+│   ├── pandas_3.ipynb
+│   ├── pandas_4.ipynb
+│   └── state.csv
 ├── README.md
 ├── repo_structure.txt
 └── requirements.txt
