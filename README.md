@@ -62,6 +62,7 @@ Each algorithm is explained in detail in its respective notebook in the `algorit
 ```
 ├── LICENSE
 ├── ML
+│   ├── Pandas_6.ipynb
 │   ├── Structure.md
 │   ├── adult.csv
 │   ├── iris.csv
