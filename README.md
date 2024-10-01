@@ -62,6 +62,12 @@ Each algorithm is explained in detail in its respective notebook in the `algorit
 ```
 ├── LICENSE
 ├── ML
+│   ├── Matplotlib_1.ipynb
+│   ├── Matplotlib_2.ipynb
+│   ├── Matplotlib_3.ipynb
+│   ├── Matplotlib_4.ipynb
+│   ├── Matplotlib_5.ipynb
+│   ├── Matplotlib_6.ipynb
 │   ├── Pandas_6.ipynb
 │   ├── Structure.md
 │   ├── adult.csv
