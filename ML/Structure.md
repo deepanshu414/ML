@@ -1,6 +1,6 @@
-# ML Cheatsheet: NumPy and Pandas
+# Machine Learning Notebooks Cheatsheet
 
-## NumPy Array Operations
+## NumPy Notebooks
 
 ### Numpy_array_1.ipynb
 
@@ -59,7 +59,7 @@
 | `tan` | Tangent of each element | `np.tan(arr)` |
 | `matplotlib.plot` | Plot data | `plt.plot(x, y)` |
 
-## Pandas Operations
+## Pandas Notebooks
 
 ### Pandas_1.ipynb
 
@@ -113,4 +113,75 @@
 | `inplace` | Modify the DataFrame in place | `df.dropna(inplace=True)` |
 | `fillna` | Fill NA values | `df.fillna(0)` |
 
-Note: Replace `arr`, `arr1`, `arr2`, `s`, and `df` with your actual variable names.
+### Pandas_5.ipynb
+
+| Function | Description | Example |
+|----------|-------------|---------|
+| `replace` | Replace values | `df.replace(old_value, new_value)` |
+| `to_replace` | Values to replace | `df.replace(to_replace=dict)` |
+| `regex` | Use regex for replacement | `df.replace(regex=pattern)` |
+| `interpolate` | Interpolate values | `df.interpolate()` |
+| `method` | Interpolation method | `df.interpolate(method='linear')` |
+| `loc` | Label-based indexing | `df.loc[label]` |
+| `iloc` | Integer-based indexing | `df.iloc[0]` |
+| `groupby` | Group DataFrame | `df.groupby('column')` |
+| `merge` | Merge DataFrames | `pd.merge(df1, df2)` |
+| `concat` | Concatenate DataFrames | `pd.concat([df1, df2])` |
+| `melt` | Unpivot DataFrame | `pd.melt(df)` |
+| `value_name` | Name for melted values | `pd.melt(df, value_name='val')` |
+| `value_vars` | Columns to unpivot | `pd.melt(df, value_vars=['A', 'B'])` |
+
+## Matplotlib Notebooks
+
+### Matplotlib_1.ipynb
+
+| Function | Description | Example |
+|----------|-------------|---------|
+| `plot` | Create line plot | `plt.plot(x, y)` |
+| `title` | Set plot title | `plt.title('Title')` |
+| `grid` | Add grid to plot | `plt.grid(True)` |
+| `style.use` | Set plot style | `plt.style.use('seaborn')` |
+| `legend` | Add legend to plot | `plt.legend()` |
+| `ylabel` | Set y-axis label | `plt.ylabel('Y-axis')` |
+| `xlabel` | Set x-axis label | `plt.xlabel('X-axis')` |
+
+### Matplotlib_2.ipynb
+
+| Function | Description | Example |
+|----------|-------------|---------|
+| `axis` | Set axis limits | `plt.axis([xmin, xmax, ymin, ymax])` |
+| `hist` | Create histogram | `plt.hist(data)` |
+
+### Matplotlib_3.ipynb
+
+| Function | Description | Example |
+|----------|-------------|---------|
+| `bar` | Create bar plot | `plt.bar(x, height)` |
+
+### Matplotlib_4.ipynb
+
+| Function | Description | Example |
+|----------|-------------|---------|
+| `scatter` | Create scatter plot | `plt.scatter(x, y)` |
+
+### Matplotlib_5.ipynb
+
+| Function | Description | Example |
+|----------|-------------|---------|
+| `pie` | Create pie chart | `plt.pie(sizes)` |
+
+### Matplotlib_6.ipynb
+
+| Function | Description | Example |
+|----------|-------------|---------|
+| `subplot` | Create subplot | `plt.subplot(rows, cols, index)` |
+
+### Matplotlib_7.ipynb
+
+| Function | Description | Example |
+|----------|-------------|---------|
+| `imread` | Read image file | `plt.imread('image.jpg')` |
+| `imshow` | Display image | `plt.imshow(img)` |
+| `figure` | Create new figure | `plt.figure(figsize=(10,6))` |
+
+Note: Replace `arr`, `arr1`, `arr2`, `s`, `df`, `x`, `y` with your actual variable names.
