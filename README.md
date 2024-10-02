@@ -71,9 +71,11 @@ Each algorithm is explained in detail in its respective notebook in the `algorit
 │   ├── Pandas_6.ipynb
 │   ├── Structure.md
 │   ├── adult.csv
+│   ├── image.jpg
 │   ├── iris.csv
 │   ├── numpy_array_1.ipynb
 │   ├── numpy_array_2.ipynb
+│   ├── numpy_array_3.ipynb
 │   ├── pandas_1.ipynb
 │   ├── pandas_2.ipynb
 │   ├── pandas_3.ipynb
