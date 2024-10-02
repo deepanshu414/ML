@@ -6,7 +6,9 @@
 │   ├── Matplotlib_4.ipynb
 │   ├── Matplotlib_5.ipynb
 │   ├── Matplotlib_6.ipynb
+│   ├── Matplotlib_7.ipynb
 │   ├── Pandas_6.ipynb
+│   ├── Seaborn_1.ipynb
 │   ├── Structure.md
 │   ├── adult.csv
 │   ├── image.jpg

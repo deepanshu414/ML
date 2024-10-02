@@ -68,7 +68,9 @@ Each algorithm is explained in detail in its respective notebook in the `algorit
 │   ├── Matplotlib_4.ipynb
 │   ├── Matplotlib_5.ipynb
 │   ├── Matplotlib_6.ipynb
+│   ├── Matplotlib_7.ipynb
 │   ├── Pandas_6.ipynb
+│   ├── Seaborn_1.ipynb
 │   ├── Structure.md
 │   ├── adult.csv
 │   ├── image.jpg
