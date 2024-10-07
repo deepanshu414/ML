@@ -73,6 +73,7 @@ Each algorithm is explained in detail in its respective notebook in the `algorit
 │   ├── Seaborn_1.ipynb
 │   ├── Seaborn_2.ipynb
 │   ├── Seaborn_3.ipynb
+│   ├── Seaborn_5.ipynb
 │   ├── Structure.md
 │   ├── adult.csv
 │   ├── image.jpg
